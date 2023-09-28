@@ -1,23 +1,19 @@
 # GetConnected
-A social media for connecting with people around the world
 
-## Table of contents
-* [Features](#features)
-* [Technologies](#technologies)
-* [Installation](#installation)
-* [Run Locally](#run_local)
-* [Deployment](#deployment)
+Welcome to GetConnected, your passport to a vibrant global social experience. Connect with people worldwide and explore diverse cultures and ideas.
 
 ## Features
-This web app consists of a basic features/functionalities of a socia media
-* Login and Registration
-* Notification
-* Private Messaging
-* Post CRUD functionality
-* Comment feature
-* Profile Customization
-* Followers/Following feature
-* Search Feature
+
+- **Global Reach**: Connect with people from around the world.
+- **User-Friendly Interface**: Navigate effortlessly.
+- **Secure Login and Registration**: Your privacy is our priority.
+- **Real-Time Notifications**: Stay updated.
+- **Private Messaging**: Connect privately.
+- **Post Creation**: Share your thoughts effortlessly.
+- **Comments**: Engage in discussions.
+- **Profile Customization**: Make your profile unique.
+- **Followers and Following**: Build your network.
+- **Powerful Search**: Find friends and interests.
 
 ## Technologies
 |   Front End |  Back End   |
@@ -86,3 +82,6 @@ $ npm run start-server // backend
 $ cd client // or cd server
 $ npm start
 ```
+
+## Message from creator
+Build with ♥️ in 🇮🇳 by Snehomoy Maitra
